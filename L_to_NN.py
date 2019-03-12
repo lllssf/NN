@@ -1,5 +1,3 @@
-# code for a 3-layer neural network, and code for learning the MNIST dataset
-
 import numpy
 # sigmoid function expit()
 from scipy.special import expit
