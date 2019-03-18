@@ -1,7 +1,8 @@
 # learn-Neural-Network
+## MNIST dataset
 ### code for a 3-layer neural network using numpy
-97.3%
+Test accuracy: 97.3%
 ### code for a Softmax Regression using Tensorflow 
-92.5%
+Test accuracy: 92.5%
 ### CNN
-99.2%
+Test accuracy: 99.2%
