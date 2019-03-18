@@ -4,4 +4,4 @@
 ### code for a Softmax Regression using Tensorflow 
 92%
 ### CNN
-99.2%
+99%
