@@ -1,4 +1,4 @@
-# learn-Neural-Network
+# Neural-Network
 ## MNIST dataset
 ### code for a 3-layer neural network using numpy
 Test accuracy: 97.3%
