@@ -1,16 +1,19 @@
 # 神经网络的学习与实践
 ## MNIST dataset
-### code for a 3-layer neural network using numpy
+### code for a [3-layer neural network using numpy](https://github.com/lllssf/NN-implemantation/blob/master/3_layers_NN.py)
 Test accuracy: 97.3%
-### code for a Softmax Regression using Tensorflow 
+### code for a [Softmax Regression using Tensorflow](https://github.com/lllssf/NN-implemantation/blob/master/sigle_softmax_regression.py) 
 Test accuracy: 92.5%
 ### CNN 
 #### Based on Tensorflow framework
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/CNN.py)
 - Layers: conv1+pool1+conv2+pool2+fc1+softmax
 - Test accuracy: 99.2%
 #### Based on Keras
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/CNN_keras.py)
 - Test accuracy: 99.2%
 ## learning PyTorch
+- [基础](https://github.com/lllssf/NN-implemantation/blob/master/torch_tutor.ipynb)
 
 ## 一维信号分类任务
 主要目标是识别分布式光纤系统上不同的扰动信号，参见[详情](https://github.com/lllssf/NN-implemantation/tree/master/wave_classify)
