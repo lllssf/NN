@@ -5,7 +5,7 @@
 - [code](https://github.com/lllssf/NN-implemantation/blob/master/3_layers_NN.py)
 - Test accuracy: 97.3%
 #### code for a Softmax Regression using Tensorflow
-- [code]((https://github.com/lllssf/NN-implemantation/blob/master/sigle_softmax_regression.py) 
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/sigle_softmax_regression.py) 
 - Test accuracy: 92.5%
 #### CNN 
 ##### Based on Tensorflow framework
