@@ -13,6 +13,9 @@ Test accuracy: 92.5%
 ## learning PyTorch
 
 ## 一维信号分类任务
+主要目标是识别分布式光纤系统上不同的扰动信号，参见[详情](https://github.com/lllssf/NN-implemantation/tree/master/wave_classify)
+### 任务一
+从分布式光纤同一位置依次制造三种不同扰动，进行识别。
 1. 原始数据：四种扰动信号 --> 构建数据集
 2. 搭建一维CNN进行分类
 3. > 训练集loss为0.029167114989832044，准确率为0.9975961446762085\
