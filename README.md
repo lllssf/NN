@@ -2,18 +2,18 @@
 ## 基础学习
 ### MNIST DATASET
 #### code for a 3-layer neural network using numpy
-- [code](https://github.com/lllssf/NN-implemantation/blob/master/3_layers_NN.py)
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/MNIST/3_layers_NN.py)
 - Test accuracy: 97.3%
 #### code for a Softmax Regression using Tensorflow
-- [code](https://github.com/lllssf/NN-implemantation/blob/master/sigle_softmax_regression.py) 
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/MNIST/sigle_softmax_regression.py) 
 - Test accuracy: 92.5%
 #### CNN 
 ##### Based on Tensorflow framework
-- [code](https://github.com/lllssf/NN-implemantation/blob/master/CNN.py)
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/MNIST/CNN.py)
 - Layers: conv1+pool1+conv2+pool2+fc1+softmax
 - Test accuracy: 99.2%
 ##### Based on Keras
-- [code](https://github.com/lllssf/NN-implemantation/blob/master/CNN_keras.py)
+- [code](https://github.com/lllssf/NN-implemantation/blob/master/MNIST/CNN_keras.py)
 - Test accuracy: 99.2%
 ### learning PyTorch
 - [基础](https://github.com/lllssf/NN-implemantation/blob/master/torch_tutor.ipynb)
