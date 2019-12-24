@@ -10,3 +10,11 @@
 
 ## 任务二
 
+扩大数据集，使用任务一的网络识别三种不同扰动。
+1. 三种扰动信号构建数据集：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP1/wave_dataset.ipynb)
+2. 一维CNN分类：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP1/wave_dataset.ipynb)
+  >训练集loss为0.006494189302126567，准确率为0.9989984035491943
+   验证集loss为0.08075833001307078，准确率为0.9754464030265808
+   测试集loss为0.08794098829259415，准确率为0.9640718698501587
+   
+## 任务三
