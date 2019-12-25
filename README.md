@@ -39,4 +39,18 @@
    
 ## 任务三
 
+将每条数据长度局限在一个传感器范围内，即50个数据点。
+- 构建数据集：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_dataset.ipynb)
+- 模型的训练与测试：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_classify.ipynb)
+### 一维信号分类结果
+
+- 4995条训练数据，501条验证数据，501条测试数据
+- 训练集准确率为0.9453125, 测试集准确率为0.9061876535415649
+
+### 二维信号分类结果
+
+- 4869条训练数据，489条验证数据，489条测试数据
+- 训练集准确率为1.0, 测试集准确率为1.0
+
+
 ## GPR信号识别
