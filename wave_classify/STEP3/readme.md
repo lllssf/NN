@@ -13,7 +13,7 @@
 ## 基于联合采集数据集
 
 - 数据集来源：对前中后三个光纤同时进行脚踏、手触和棒击操作
-- 数据集制作（过程详见[wave_dataset]()）：
+- 数据集制作（过程详见[wave_dataset](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_dataset.ipynb)）：
   - 一维信号：有4995条训练数据，501条验证数据，501条测试数据
   - 多组一维信号叠加的二维信号：有4869条训练数据，489条验证数据，489条测试数据
 
@@ -32,7 +32,7 @@
 - 数据来源：
   - 对前中后三个光纤同时进行脚踏、手触和棒击操作
   - 分别对前中后三个光纤进行脚踏、手触和棒击操作
-- 数据集制作（过程详见[wave_dataset]()）
+- 数据集制作（过程详见[wave_dataset](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_dataset.ipynb)）
   - 一维信号：有19992条训练数据，1998条验证数据，1998条测试数据
   - 二维信号：有19866条训练数据，1986条验证数据，1986条测试数据
 
