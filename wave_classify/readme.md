@@ -18,3 +18,7 @@
    测试集loss为0.08794098829259415，准确率为0.9640718698501587
    
 ## 任务三
+
+原本是将整条光纤上的信号传入识别上面的单一信号，现在要求在短距分辨率范围内识别其上的扰动信号，是原本的数据量由5000个点变为50个点。
+- 构造数据集：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_dataset.ipynb)
+- 训练与测试模型：[code](https://github.com/lllssf/NN-implemantation/blob/master/wave_classify/STEP3/wave_classify.ipynb)
